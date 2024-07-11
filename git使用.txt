@@ -1,5 +1,5 @@
 git init   初始化仓库
 git add“test.txt”   放入缓存
-git commit -m"添加注释"    放入git仓库
+git commit -m"添加注释"    放入git仓库   需要先将文件git add之后使用git commit才有效
 git status 查看当前仓库状态
 git diff readme.txt  查看修改内容
